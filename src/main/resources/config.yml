@@ -1,0 +1,23 @@
+merge-radius: 8.0
+merge-interval-ticks: 100
+max-stack-size: 64
+
+merge-mode: ALWAYS
+merge-chance: 0.35
+
+extra-health-per-mob: 0.35
+extra-damage-per-mob: 0.10
+extra-knockback-resistance-per-mob: 0.04
+
+scale-step: 0.22
+max-scale: 3.0
+max-slime-size: 10
+max-applied-health: 1024.0
+
+multiply-drops: true
+multiply-experience: true
+
+blacklist:
+  - ENDER_DRAGON
+  - WITHER
+  - WARDEN
