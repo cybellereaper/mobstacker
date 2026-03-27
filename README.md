@@ -1,6 +1,6 @@
 # MobStacker
 
-![MobStacker Icon](./assets/mobstacker-icon.png)
+![MobStacker Icon](./mobstacker-icon.png)
 
 A PaperMC plugin that merges nearby mobs into larger, denser, more rewarding stacks.
 
